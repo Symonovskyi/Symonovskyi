@@ -54,18 +54,12 @@
 
 ### :trophy: Projects:
 
-<div>           <b>Title:</b> <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo.svg" height="12"/> OTETO VPN</a>
-
-<b>Description:</b> Telegram bot that allows you to install your personal VPN 🔒 on your server.
-     <b>Platform:</b> Telegram.
-</div>
-<div>           <b>Title:</b> <a href="https://github.com/Symonovskyi/ControlMicTray" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/ControlMicTray/ControlMicTray-Logo.svg" height="12"/> ControlMicTray</a>
-
-<b>Description:</b> Control your microphone comfortably 🎙️.
-     <b>Platform:</b> Windows.
-</div>
-<div>           <b>Title:</b> <a href="https://timesoft.pp.ua" target="_blank" title="Go to website TimeSoft"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/TimeSoft/TimeSoft-Logo.svg" height="12"/> TimeSoft</a>
-
-<b>Description:</b> Record time ⏲ spent and divide depending on the type, for systemic improvement of personal efficiency in the version for Windows or Telegram bot.
-     <b>Platform:</b> Windows, Telegram.
-</div>
+<div>
+             <b>Title:</b> <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo.svg" height="12"/> OTETO VPN</a><BR>
+<b>Description:</b> Telegram bot that allows you to install your personal VPN 🔒 on your server.<BR>     <b>Platform:</b> Telegram.
+<BR><BR>
+             <b>Title:</b> <a href="https://github.com/Symonovskyi/ControlMicTray" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/ControlMicTray/ControlMicTray-Logo.svg" height="12"/> ControlMicTray</a><BR>
+<b>Description:</b> Control your microphone comfortably 🎙️.<BR>     <b>Platform:</b> Windows.
+<BR><BR>
+             <b>Title:</b> <a href="https://timesoft.pp.ua" target="_blank" title="Go to website TimeSoft"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/TimeSoft/TimeSoft-Logo.svg" height="12"/> TimeSoft</a><BR>
+<b>Description:</b> Record time ⏲ spent and divide depending on the type, for systemic improvement of personal efficiency in the version for Windows or Telegram bot.<BR>     <b>Platform:</b> Windows, Telegram.
