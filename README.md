@@ -49,3 +49,23 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symonovskyi&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Snake animation](https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/github-user-contribution.svg)](https://platane.github.io/snk)
+
+---
+
+### :trophy: Projects:
+
+<div>           <b>Title:</b> <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo.svg" height="12"/> OTETO VPN</a>
+
+<b>Description:</b> Telegram bot that allows you to install your personal VPN 🔒 on your server.
+     <b>Platform:</b> Telegram.
+</div>
+<div>           <b>Title:</b> <a href="https://github.com/Symonovskyi/ControlMicTray" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/ControlMicTray/ControlMicTray-Logo.svg" height="12"/> ControlMicTray</a>
+
+<b>Description:</b> Control your microphone comfortably 🎙️.
+     <b>Platform:</b> Windows.
+</div>
+<div>           <b>Title:</b> <a href="https://timesoft.pp.ua" target="_blank" title="Go to website TimeSoft"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/TimeSoft/TimeSoft-Logo.svg" height="12"/> TimeSoft</a>
+
+<b>Description:</b> Record time ⏲ spent and divide depending on the type, for systemic improvement of personal efficiency in the version for Windows or Telegram bot.
+     <b>Platform:</b> Windows, Telegram.
+</div>
