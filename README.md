@@ -3,7 +3,7 @@
 <div align="center">
 <h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm <a href="https://Symonovskyi.blockchain" target="_blank" title="Go to my website. Domain created on blockchain technology">Yevgeny Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20"/></a></h1>
-<h3>Computer science student, founder of IT-project <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO">OTETO</a> and just a cool Product & Project Manager</h3>
+<h3>Computer science student, founder of IT-startap <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO">OTETO</a> and just a cool Product & Project Manager</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Symonovskyi&style=flat-square&color=blueviolet" alt=""/>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
@@ -26,14 +26,14 @@ DataBase:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/DataBase/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="40"/>&nbsp;
 </div>
 <div>
-OS:
+      OS:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/windows-10-icon.svg" title="Windows" alt="Windows" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/debian-original-wordmark.svg" title="Debian" alt="Debian" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/android-plain-wordmark.svg" title="Android" alt="Android" height="40"/>&nbsp;
 </div>
 <div>
-Tool:
+    Tool:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Tools/qt-original.svg" title="QT" alt="QT" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Tools/tableau.svg" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Tools/visual-studio-code-icon.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40"/>&nbsp;
