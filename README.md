@@ -13,27 +13,27 @@
 
 ### :hammer_and_wrench: Experience:
 <div>
-Language:
+  Language:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/python-programming-language-icon.svg" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/bash-original.svg" title="Bash" alt="Bash" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/markdown-original.svg" title="Markdown" alt="Markdown" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/sketch-original-wordmark.svg" title="Sketch" alt="Sketch" height="40"/>&nbsp;
 </div>
 <div>
-DataBase:
+  DataBase:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/DataBase/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/DataBase/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/DataBase/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="40"/>&nbsp;
 </div>
 <div>
-      OS:
+        OS:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/windows-10-icon.svg" title="Windows" alt="Windows" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/debian-original-wordmark.svg" title="Debian" alt="Debian" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/OS/android-plain-wordmark.svg" title="Android" alt="Android" height="40"/>&nbsp;
 </div>
 <div>
-    Tool:
+       Tool:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Tools/qt-original.svg" title="QT" alt="QT" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Tools/tableau.svg" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Tools/visual-studio-code-icon.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40"/>&nbsp;
