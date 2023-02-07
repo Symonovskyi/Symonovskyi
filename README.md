@@ -3,10 +3,10 @@
 <div align="center">
 <h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm <a href="https://Symonovskyi.blockchain" target="_blank" title="Go to my website. Domain created on blockchain technology">Yevgeny Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20"/></a></h1>
-<h3>Computer science student, founder of IT-startap <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO">OTETO</a> and just a cool Product & Project Manager</h3>
+<h3>The CEO of OTETO VPN and an awesome PM, the founder of the <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space, and a specialist in the field of cybersecurity, who is also considered a great person by my friends and my mom.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Symonovskyi&style=flat-square&color=blueviolet" alt=""/>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Name: Avento marketing. Sourse: https://dribbble.com/peterhenderson"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@ Additionally:
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Symonovskyi&theme=dark&date_format=%5BY.%5Dn.j&ring=9645F4&background=000000" title="GitHub Streak" alt="GitHub Streak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonovskyi&layout=compact&theme=midnight-purple" title="Top Langs" alt="Top Langs"/>
-<img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/output/github-contribution-grid-snake.svg#gh-dark-mode-only" title="Snake animation" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" title="Snake animation" alt="Snake animation"/>
 <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/output/github-contribution-grid-snake.svg#gh-light-mode-only" title="Snake animation" alt="Snake animation"/>
 <div>
 
@@ -99,11 +99,11 @@ Additionally:
 
 ### :trophy: Projects
 <div align="left">
-            <b>Title:</b> <a href="https://oteto.pp.ua" target="_blank" title="Go to website OTETO"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo.svg" height="12"/> OTETO VPN</a><BR>
-<b>Description:</b> Telegram bot that allows you to install your personal VPN 🔒 on your server.<BR>    <b>Platform:</b> Telegram.
+            <b>Title:</b> <a href="https://OTETO.space/VPN" target="_blank" title="Go to website OTETO"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-dark#gh-dark-mode-only" height="12"/><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-light.svg#gh-light-mode-only" height="12"/> OTETO VPN</a><BR>
+<b>Description:</b> Setup your personal VPN 🔒 server in just a few simple steps without any specialized knowledge using a straightforward Telegram bot.<BR>    <b>Platform:</b> Telegram.
 <BR><BR>
             <b>Title:</b> <a href="https://github.com/Symonovskyi/ControlMicTray" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/ControlMicTray/ControlMicTray-Logo.svg" height="12"/> ControlMicTray</a><BR>
-<b>Description:</b> Control your microphone comfortably 🎙️.<BR>    <b>Platform:</b> Windows.
+<b>Description:</b> Convenient microphone management for Windows 🎙️.<BR>    <b>Platform:</b> Windows.
 <BR><BR>
             <b>Title:</b> <a href="https://timesoft.pp.ua" target="_blank" title="Go to website TimeSoft"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/TimeSoft/TimeSoft-Logo.svg" height="12"/> TimeSoft</a><BR>
-<b>Description:</b> Record time ⏲ spent and divide depending on the type, for systemic improvement of personal efficiency in the version for Windows or Telegram bot.<BR>    <b>Platform:</b> Windows, Telegram.
+<b>Description:</b> Track your time ⏱ spent and categorize for increased personal efficiency in the Windows version or Telegram bot.<BR>    <b>Platform:</b> Windows, Telegram.
