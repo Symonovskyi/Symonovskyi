@@ -91,7 +91,8 @@ Additionally:
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Symonovskyi&theme=dark&date_format=%5BY.%5Dn.j&ring=9645F4&background=000000" title="GitHub Streak" alt="GitHub Streak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symonovskyi&layout=compact&theme=midnight-purple" title="Top Langs" alt="Top Langs"/>
-<img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/github-user-contribution.svg" title="Snake animation" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/output/github-contribution-grid-snake.svg#gh-dark-mode-only" title="Snake animation" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/output/github-contribution-grid-snake.svg#gh-light-mode-only" title="Snake animation" alt="Snake animation"/>
 <div>
 
 ---
