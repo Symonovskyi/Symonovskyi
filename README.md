@@ -6,7 +6,7 @@
 <h3>The CEO of OTETO VPN and an awesome PM, the founder of the <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space, and a specialist in the field of cybersecurity, who is also considered a great person by my friends and my mom.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Symonovskyi&style=flat-square&color=blueviolet" alt=""/>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Name: Avento marketing. Sourse: https://dribbble.com/peterhenderson"/>
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/programming-dark.gif" width="100%" alt="Name: Avento marketing. Sourse: https://dribbble.com/peterhenderson"/>
 </div>
 
 ---
