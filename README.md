@@ -99,7 +99,7 @@ Additionally:
 
 ### :trophy: Projects
 <div align="left">
-            <b>Title:</b> <a href="https://OTETO.space/VPN" target="_blank" title="Go to website OTETO"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-dark.svg#gh-dark-mode-only" height="12"/><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-light.svg#gh-light-mode-only" height="12"/> OTETO VPN</a><BR>
+            <b>Title:</b> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-dark.svg#gh-dark-mode-only" height="12"/><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-light.svg#gh-light-mode-only" height="12"/> <a href="https://OTETO.space/VPN" target="_blank" title="Go to website OTETO">OTETO VPN</a><BR>
 <b>Description:</b> Setup your personal VPN 🔒 server in just a few simple steps without any specialized knowledge using a straightforward Telegram bot.<BR>    <b>Platform:</b> Telegram.
 <BR><BR>
             <b>Title:</b> <a href="https://github.com/Symonovskyi/ControlMicTray" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/ControlMicTray/ControlMicTray-Logo.svg" height="12"/> ControlMicTray</a><BR>
