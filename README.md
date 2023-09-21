@@ -2,7 +2,8 @@
 
 <div align="center">
 <h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/> Hi there, I'm <a href="https://Symonovskyi.blockchain" target="_blank" title="Go to my website. Domain created on blockchain technology">Yevgeny Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20"/></a></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
+Hi there, I'm <a href="https://Symonovskyi.blockchain" target="_blank" title="Go to my website. Domain created on blockchain technology">Yevgeny Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20" width="20"/></a></h1>
 <h3>The CEO of OTETO VPN and an awesome PM, the founder of the <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space, and a specialist in the field of cybersecurity, who is also considered a great person by my friends and my mom.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Symonovskyi&style=flat-square&color=blueviolet" alt=""/>
