@@ -3,11 +3,11 @@
 <div align="center">
   <h1>
     <a href="#"></a><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/Hi.gif" height="32" width="32" /> <BR>
-    Hi there, I'm <a href="https://Symonovskyi.blockchain" target="_blank" title="Go to my website. Domain created on blockchain technology">Yevgeny Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20" width="20"/></a>
+    Hello, world! I’m <a href="https://Symonovskyi.pp.ua" target="_blank" title="Go to my website">Ievgenii Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20" width="20"/></a>
   </h1>
-  <h3>
-    <a href="#"></a>The CEO of OTETO VPN and an awesome PM, the founder of the <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space, and a specialist in the field of cybersecurity, who is also considered a great person by my friends and my mom.
-  </h3>
+
+  <h4>I’m the CEO of <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space and a product manager passionate about creating secure, user-centered solutions. My journey combines entrepreneurship, cybersecurity, and a knack for turning complex ideas into impactful products.</h4>
+  <h4>Whether I’m leading a team, analyzing data, or brewing my signature hibiscus tea, "Red Sunset," I believe in connecting with people and building meaningful projects. Oh, and my mom says I’m awesome, so it must be true! Let’s code, collaborate, and create something amazing together!</h4>
 
   <img src="https://komarev.com/ghpvc/?username=Symonovskyi&style=flat-square&color=blueviolet" alt=""/>
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/programming-dark.gif" width="100%" alt="Name: Avento marketing. Sourse: https://dribbble.com/peterhenderson"/>
@@ -20,7 +20,6 @@
   Language:
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/python-programming-language-icon.svg" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/bash-original.svg" title="Bash" alt="Bash" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/markdown-original.svg" title="Markdown" alt="Markdown" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Language/sketch-original-wordmark.svg" title="Sketch" alt="Sketch" height="40"/>&nbsp;
 </div>
 <div>
@@ -108,6 +107,9 @@ Additionally:
 <BR><BR>
             <b>Title:</b> <a href="https://github.com/Symonovskyi/ControlMicTray" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/ControlMicTray/ControlMicTray-Logo.svg" height="12"/> ControlMicTray</a><BR>
 <b>Description:</b> Convenient microphone management for Windows 🎙️.<BR>    <b>Platform:</b> Windows.
+<BR><BR>
+            <b>Title:</b> <a href="https://github.com/Symonovskyi/ChatGPT-EnterControl" target="_blank" title="Go to website ControlMicTray"> <img src="https://raw.githubusercontent.com/Symonovskyi/ChatGPT-EnterControl/refs/heads/main/icons/icon16.png" height="12"/> ChatGPT EnterControl</a><BR>
+<b>Description:</b> An extension for Chromium-based browsers that allows creating new lines with Enter and sending messages with Ctrl+Enter in ChatGPT 💬.<BR>    <b>Platform:</b> Browsers based on Chromium engine.
 <BR><BR>
             <b>Title:</b> <a href="https://timesoft.pp.ua" target="_blank" title="Go to website TimeSoft"> <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/TimeSoft/TimeSoft-Logo.svg" height="12"/> TimeSoft</a><BR>
 <b>Description:</b> Track your time ⏱ spent and categorize for increased personal efficiency in the Windows version or Telegram bot.<BR>    <b>Platform:</b> Windows, Telegram.
