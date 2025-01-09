@@ -6,7 +6,7 @@
     Hello, world! I’m <a href="https://Symonovskyi.pp.ua" target="_blank" title="Go to my website">Ievgenii Symonovskyi</a> <a href="https://www.linkedin.com/in/esymonovskyi/" target="_blank" title="Go to my Linkedin page"><img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Messenger%26Social/linkedin-original.svg" height="20" width="20"/></a>
   </h1>
 
-  <h4>I’m the CEO of <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space and a product manager passionate about creating secure, user-centered solutions. My journey combines entrepreneurship, cybersecurity, and a knack for turning complex ideas into impactful products.</h4>
+  <h4>I’m the CEO of <a href="https://OTETO.space" target="_blank" title="Go to website OTETO">OTETO</a> space and a PM passionate about creating secure, user-centered solutions. My journey combines entrepreneurship, cybersecurity, and a knack for turning complex ideas into impactful products.</h4>
   <h4>Whether I’m leading a team, analyzing data, or brewing my signature hibiscus tea, "Red Sunset," I believe in connecting with people and building meaningful projects. Oh, and my mom says I’m awesome, so it must be true! Let’s code, collaborate, and create something amazing together!</h4>
 
   <img src="https://komarev.com/ghpvc/?username=Symonovskyi&style=flat-square&color=blueviolet" alt=""/>
